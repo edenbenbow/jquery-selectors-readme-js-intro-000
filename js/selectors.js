@@ -11,5 +11,5 @@ return $('#baby-ninja');
 }
 
 function divSelector() {
-  
+
 }
