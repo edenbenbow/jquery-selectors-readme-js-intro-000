@@ -3,7 +3,7 @@ return $('p')
 }
 
 function lastImageSelector() {
-$('p') {
+if $('p') {
 return $('image-last')
 }
 }
